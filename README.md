@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Data Engineer with experience delivering data solutions across diverse industries, including telecom, sports science, and fintech. 
+Skilled in building scalable and reliable ETL pipelines, optimizing performance, and developing advanced analytics using Python, SQL, and NoSQL technologies.
