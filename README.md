@@ -36,8 +36,8 @@ I’ve contributed to several peer-reviewed scientific articles by leveraging my
   *Frontiers in Physiology*, 2022
 
 - 📄 [**Pacing profiles, variability and progression in 400, 800 and 1500-m freestyle swimming events at the 2021 European Championship**](https://www.tandfonline.com/doi/abs/10.1080/24748668.2021.2010318)  
-  *Computational and Mathematical Methods in Medicine*, 2021
+  *International Journal of Performance Analysis in Sport*, 2021
 
 - 📄 [**Progression and variation of competitive 100 and 200m performance at the 2021 European Swimming Championships**](https://www.tandfonline.com/doi/full/10.1080/14763141.2021.1998591)  
-  *Computer Methods in Biomechanics and Biomedical Engineering*, 2021
+  *Sports Biomechanics*, 2021
 
