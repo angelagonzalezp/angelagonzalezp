@@ -27,6 +27,7 @@ Skilled in building scalable and reliable ETL pipelines, optimizing performance,
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-DocumentDB-47A248?logo=mongodb&logoColor=white)
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-Dataflow-orange?logo=apache&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white)
 
 ## 🧪 Scientific Publications
 
